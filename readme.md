@@ -79,7 +79,7 @@ echo "LOGSTASH_CORE_PATH=$LOGSTASH_CORE_PATH" >> gradle.properties
 9
 
 ``` shell
-export FILTER_NORI_PATH=$PWD/logstash-filter-korean_jamo-현재 필터 노리 플러그인 버전.gem  
+export FILTER_NORI_PATH=$PWD/logstash-filter-nori-현재 필터 노리 플러그인 버전.gem  
 ```
 
 로그스태시가 설치 된 폴더로 이동 후
