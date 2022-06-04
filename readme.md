@@ -61,7 +61,7 @@ cd ../
 6
 
 ``` shell
-git clone https://github.com/twosom/logstash-filter-korean-number.git
+git clone https://github.com/twosom/logstash-filter-nori
 ```
 
 7
