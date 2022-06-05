@@ -1,4 +1,4 @@
-# Logstash Filter Nori [![Build Status](https://app.travis-ci.com/twosom/logstash-filter-korean-number.svg?branch=main)](https://app.travis-ci.com/twosom/logstash-filter-korean-number)
+# Logstash Filter Nori [![Gem Version](https://badge.fury.io/rb/logstash-filter-nori.svg)](https://badge.fury.io/rb/logstash-filter-nori)
 
 이 플러그인은 [Logstash](https://github.com/elastic/logstash) 를 위한 필터 플러그인으로
 
